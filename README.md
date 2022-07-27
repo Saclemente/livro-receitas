@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas, um cantinho cheio de amor :heart: 
 
-- Bolo de Milho
+- Bolo de Milho :cake:
+- Bombom de Travessa :chocolate_bar:
